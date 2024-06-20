@@ -1,23 +1,23 @@
 {
-  "author": "Emon",
+  "author": "Xbilli",
   "developermode": false,
   "language": "en",
   "notification": true,
   "approval": false,
-  "OPERATORNAME": "EMON HAWLADAR",
-  "OPERATORID": "100075290587473",
-  "OPERATORLINK": "https://www.facebook.com/EMon.BHai.FACEBOOK",
-  "BOTNAME": "EMon-BHai-BOT",
+  "OPERATORNAME": "XBILLI",
+  "OPERATORID": "100086234190964",
+  "OPERATORLINK": "https://www.facebook.com/profile.php?id=100086234190964",
+  "BOTNAME": "anix",
   "PREFIX": "+",
   "OPERATOR": [
-    "100075290587473"
+    "61555152938686"
   ],
   "ADMINBOT": [
-    "100075290587473",
+    "100086234190964",
     "uid",
     "uid"
   ],
-  "OWNER": ["100075290587473"],
+  "OWNER": ["100086234190964"],
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
